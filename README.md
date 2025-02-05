@@ -11,5 +11,5 @@ CS30 Lessons
     avalable at a time ( Weather app & TicTacToe )
     - Advanced chooses Pong Music
   - [ ] Images related to music or theme, in Music Folder
-  - [ ] TBA
+- [ ] TBA
  
