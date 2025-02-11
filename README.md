@@ -9,6 +9,7 @@ CS30 Lessons
   - [ ] Music:
     - intermediate has choise of 3 songs for entire course, of changing songs so only 3 
     avalable at a time ( Weather app & TicTacToe )
+      - [ ] add brain blast music :3
     - Advanced chooses Pong Music
   - [ ] Images related to music or theme, in Music Folder
 - [ ] TBA
